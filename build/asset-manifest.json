@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/protal/static/css/main.9e51dd96.chunk.css",
-    "main.js": "/protal/static/js/main.d0937ac2.chunk.js",
-    "main.js.map": "/protal/static/js/main.d0937ac2.chunk.js.map",
+    "main.js": "/protal/static/js/main.fb5a1f5e.chunk.js",
+    "main.js.map": "/protal/static/js/main.fb5a1f5e.chunk.js.map",
     "runtime-main.js": "/protal/static/js/runtime-main.d6297eb9.js",
     "runtime-main.js.map": "/protal/static/js/runtime-main.d6297eb9.js.map",
     "static/css/2.c3473b6d.chunk.css": "/protal/static/css/2.c3473b6d.chunk.css",
@@ -12,7 +12,7 @@
     "static/css/2.c3473b6d.chunk.css.map": "/protal/static/css/2.c3473b6d.chunk.css.map",
     "static/css/main.9e51dd96.chunk.css.map": "/protal/static/css/main.9e51dd96.chunk.css.map",
     "static/js/2.c2c21095.chunk.js.LICENSE.txt": "/protal/static/js/2.c2c21095.chunk.js.LICENSE.txt",
-    "static/js/main.d0937ac2.chunk.js.LICENSE.txt": "/protal/static/js/main.d0937ac2.chunk.js.LICENSE.txt",
+    "static/js/main.fb5a1f5e.chunk.js.LICENSE.txt": "/protal/static/js/main.fb5a1f5e.chunk.js.LICENSE.txt",
     "static/media/angular.jpg": "/protal/static/media/angular.b5045666.jpg",
     "static/media/argon-react-white.png": "/protal/static/media/argon-react-white.e4dd3b41.png",
     "static/media/argon-react.png": "/protal/static/media/argon-react.128d71d3.png",
@@ -35,6 +35,6 @@
     "static/css/2.c3473b6d.chunk.css",
     "static/js/2.c2c21095.chunk.js",
     "static/css/main.9e51dd96.chunk.css",
-    "static/js/main.d0937ac2.chunk.js"
+    "static/js/main.fb5a1f5e.chunk.js"
   ]
 }
